@@ -2,7 +2,7 @@
 
 Welcome to my personal portfolio website page! The portfolio page is inspired by [Yuji Sato](https://yujisatojr.github.io/react-portfolio-template/).
 
-![Demo](https://my-aws-assets.s3.us-west-2.amazonaws.com/portfolio-img/portfolio-demo-screenshot.png)
+![Web_Intro](https://github.com/user-attachments/assets/e39f42f8-eac0-4430-88f8-f15dcf5c8160)
 
 ## Setup
 
