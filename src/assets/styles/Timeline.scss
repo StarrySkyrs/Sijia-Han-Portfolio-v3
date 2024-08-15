@@ -1,0 +1,62 @@
+.vertical-timeline span {
+    color: white;
+    font-family: "Lato", sans-serif;
+}
+
+.vertical-timeline p {
+    color: rgb(39, 40, 34);
+}
+
+.vertical-timeline-element p {
+    color: rgb(39, 40, 34);
+    font-size: 14px; // Ensure the font size for the paragraph text is consistent
+}
+
+.vertical-timeline-element a {
+    color: rgb(39, 40, 34);
+    font-size: 14px;
+}
+
+.vertical-timeline-element a:hover {
+    color: #5000ca;
+    transition: color .15s ease-in-out, background-color .15s ease-in-out, border-color .15s ease-in-out;
+}
+
+.vertical-timeline-element h3 {
+    color: rgb(39, 40, 34);
+    font-size: 18px; // Adjust the font size for the h3 elements (job titles)
+}
+
+.vertical-timeline-element h4 {
+    color: rgb(39, 40, 34);
+    font-size: 16px; // Adjust the font size for the h4 elements (subtitles/location)
+}
+
+.vertical-timeline-element span {
+    color: rgb(39, 40, 34);
+}
+
+.vertical-timeline-element-title a {
+    color: black;
+    font-family: "Lato", sans-serif;
+    font-size: inherit; // Ensure the font size is inherited for links
+}
+
+.vertical-timeline-element-title a:hover {
+    color: #5000ca;
+    transition: color .15s ease-in-out, background-color .15s ease-in-out, border-color .15s ease-in-out;
+}
+
+.vertical-timeline-element .vertical-timeline-element-date {
+    color: white;
+}
+
+.svg-inline--fa {
+    color: white;
+}
+
+@media screen and (max-width: 1170px) {
+    .vertical-timeline-element .vertical-timeline-element-date {
+        color: rgb(39, 40, 34);
+    }
+}
