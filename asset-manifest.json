@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Sijia-Han-Portfolio-v3/static/css/main.7332d33d.css",
+    "main.js": "/Sijia-Han-Portfolio-v3/static/js/main.b480d516.js",
+    "static/js/453.8e39afbe.chunk.js": "/Sijia-Han-Portfolio-v3/static/js/453.8e39afbe.chunk.js",
+    "static/media/bg-light.png": "/Sijia-Han-Portfolio-v3/static/media/bg-light.bac0efb485244a522981.png",
+    "static/media/bg-dark.png": "/Sijia-Han-Portfolio-v3/static/media/bg-dark.f420c6b8458af72de935.png",
+    "static/media/SentAnalysisCovid19.png": "/Sijia-Han-Portfolio-v3/static/media/SentAnalysisCovid19.e673064949ac91853aa2.png",
+    "static/media/ecosage.png": "/Sijia-Han-Portfolio-v3/static/media/ecosage.f85d6dfe18a2997a9f5c.png",
+    "static/media/chatbot.png": "/Sijia-Han-Portfolio-v3/static/media/chatbot.5585c52c67353354bf12.png",
+    "static/media/dualmap.png": "/Sijia-Han-Portfolio-v3/static/media/dualmap.31e601856fd7d9ca3052.png",
+    "static/media/CovidCorpus.png": "/Sijia-Han-Portfolio-v3/static/media/CovidCorpus.66f038340ec5a4f97c66.png",
+    "static/media/covidsent.png": "/Sijia-Han-Portfolio-v3/static/media/covidsent.2076b2e68fd8c951beaa.png",
+    "static/media/spval.png": "/Sijia-Han-Portfolio-v3/static/media/spval.243bf2107de18d163d2e.png",
+    "static/media/facebook.png": "/Sijia-Han-Portfolio-v3/static/media/facebook.e3a73ea6e2d8b96bf930.png",
+    "static/media/Sijia Han Headshot.jpg": "/Sijia-Han-Portfolio-v3/static/media/Sijia Han Headshot.54074e00886a95924b96.jpg",
+    "static/media/mecat.jpg": "/Sijia-Han-Portfolio-v3/static/media/mecat.7096d23d7aa1b996e93e.jpg",
+    "index.html": "/Sijia-Han-Portfolio-v3/index.html",
+    "main.7332d33d.css.map": "/Sijia-Han-Portfolio-v3/static/css/main.7332d33d.css.map",
+    "main.b480d516.js.map": "/Sijia-Han-Portfolio-v3/static/js/main.b480d516.js.map",
+    "453.8e39afbe.chunk.js.map": "/Sijia-Han-Portfolio-v3/static/js/453.8e39afbe.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7332d33d.css",
+    "static/js/main.b480d516.js"
+  ]
+}
