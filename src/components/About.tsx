@@ -47,10 +47,10 @@ const InteractiveChip: React.FC<InteractiveChipProps> = ({ label, extraInfo }) =
 const About: React.FC = () => {
   const [hovered, setHovered] = useState(false);
 
-  const resumeUpdateDate = "Sep 30, 2023"; // Update this date accordingly
+  const resumeUpdateDate = "Sep 25, 2024"; // Update this date accordingly
 
   const openURL = () => {
-    window.open('https://drive.google.com/file/d/1WEhupdGH5Rg-svirdbD9-s1mR57UG_85/view', '_blank'); // Replace with your actual resume link
+    window.open('https://drive.google.com/file/d/1Jdh-4tWfzVMYPioYgojbxIL74SQM4aXn/view?usp=sharing', '_blank'); // Replace with your actual resume link
   };
 
   return (
@@ -113,11 +113,11 @@ const About: React.FC = () => {
           />
           <InteractiveChip
             label="🏝️ Traveling"
-            extraInfo="On my way to Halifax, PEI & Cape Breton Island!"
+            extraInfo="Planning on visiting places in BC!"
           />
           <InteractiveChip
             label="🎮 Gaming"
-            extraInfo="Fishing in the Red Dead Redemption 2 and enjoy a moment with Arthur Morgan."
+            extraInfo="Fishing in the Red Dead Redemption 2 and enjoying a moment with Arthur Morgan."
           />
           <InteractiveChip
             label="🍹 Dining Out"
