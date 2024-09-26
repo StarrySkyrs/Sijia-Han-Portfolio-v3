@@ -78,6 +78,15 @@ const About: React.FC = () => {
         please don't hesitate to contact me!
         </p>
 
+        <p>
+          As my contract ends in <em>November</em>, I am actively <em>seeking new opportunities</em>. 
+          If you know of any openings or can connect me with someone in your network, 
+          I would greatly appreciate your help!
+        </p>
+
+        <p>Feel free to review or download my resume by clicking the button below. Thank you!</p>
+
+
         <Tooltip
           title=<div style={{ fontSize: '14px'}}>{`Last updated on ${resumeUpdateDate}`}</div>
           placement="right"
