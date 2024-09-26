@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Sijia-Han-Portfolio-v3/static/css/main.7332d33d.css",
-    "main.js": "/Sijia-Han-Portfolio-v3/static/js/main.b480d516.js",
+    "main.js": "/Sijia-Han-Portfolio-v3/static/js/main.41f8954d.js",
     "static/js/453.8e39afbe.chunk.js": "/Sijia-Han-Portfolio-v3/static/js/453.8e39afbe.chunk.js",
     "static/media/bg-light.png": "/Sijia-Han-Portfolio-v3/static/media/bg-light.bac0efb485244a522981.png",
     "static/media/bg-dark.png": "/Sijia-Han-Portfolio-v3/static/media/bg-dark.f420c6b8458af72de935.png",
@@ -17,11 +17,11 @@
     "static/media/mecat.jpg": "/Sijia-Han-Portfolio-v3/static/media/mecat.7096d23d7aa1b996e93e.jpg",
     "index.html": "/Sijia-Han-Portfolio-v3/index.html",
     "main.7332d33d.css.map": "/Sijia-Han-Portfolio-v3/static/css/main.7332d33d.css.map",
-    "main.b480d516.js.map": "/Sijia-Han-Portfolio-v3/static/js/main.b480d516.js.map",
+    "main.41f8954d.js.map": "/Sijia-Han-Portfolio-v3/static/js/main.41f8954d.js.map",
     "453.8e39afbe.chunk.js.map": "/Sijia-Han-Portfolio-v3/static/js/453.8e39afbe.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7332d33d.css",
-    "static/js/main.b480d516.js"
+    "static/js/main.41f8954d.js"
   ]
 }
