@@ -114,7 +114,7 @@ const About: React.FC = () => {
         <p className='flex-chips'>If I am not coding, you can find me: <br />
           <InteractiveChip
             label="📖 Learning"
-            extraInfo="I'm currently studying for the Microsoft Certified Azure Data Scientist Associate (DP-100) certification."
+            extraInfo=""
           />
           <InteractiveChip
             label="🥽 Swimming"
@@ -126,7 +126,7 @@ const About: React.FC = () => {
           />
           <InteractiveChip
             label="🎮 Gaming"
-            extraInfo="Fishing in the Red Dead Redemption 2 and enjoying a moment with Arthur Morgan."
+            extraInfo=""
           />
           <InteractiveChip
             label="🍹 Dining Out"
@@ -134,11 +134,11 @@ const About: React.FC = () => {
           />
           <InteractiveChip
             label="🎧 Listening Music"
-            extraInfo="Bye Bye Bye - NSYNC"
+            extraInfo=""
           />
           <InteractiveChip
             label="🎥 Watching Movies"
-            extraInfo="Deadpool 3, Despicadle Me 4"
+            extraInfo=""
           />
           <InteractiveChip
             label="🧑‍🤝‍👨 Chilling With Friends"
